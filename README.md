@@ -3,4 +3,4 @@
 https://nikolay-davydov.github.io/ahj-code-7-hw-frontend/
 
 
-Добавление тикетов
+Добавление тикетов.
